@@ -1,5 +1,6 @@
 # StellarWarpProject
 This is my first project related to data analysis. It analyzes my gacha data from the game Honkai Star Rail (https://hsr.hoyoverse.com/en-us/).
+
 NOTE: Every feature done in my project can be done through the Star Rail Station website (https://starrailstation.com/en/warp#char_event), which has much more features and visualizations than my small project.
 
 If you are still interested in using my project and get some results, follow the steps below:
