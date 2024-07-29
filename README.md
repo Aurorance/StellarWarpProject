@@ -5,6 +5,7 @@ NOTE: Every feature done in my project can be done through the Star Rail Station
 
 If you are still interested in using my project and get some results, follow the steps below:
 1. Go to https://starrailstation.com/en/warp#char_event and follow its instructions to import your warp history.
-2. Click the 'System' icon next to 'Import' button, then choose 'Export to Excel'. The downloaded file should be named as 'starrailstation-warp-data.xlsx'. If not, rename it.
-3. Put it in the 'data' folder. (Yes you have to overwrite the current .xlsx file which is mine)
-4. Run the .ipynb and you should be able to see the results. Jupyter Notebook is recommended.
+(You need to use run a Powershell code while launching the game with the gacha history opened.)
+3. Click the 'System' icon next to 'Import' button, then choose 'Export to Excel'. The downloaded file should be named as 'starrailstation-warp-data.xlsx'. If not, rename it.
+4. Replace the current .xlsx file in the 'data' folder. (Yes, you have to overwrite it since it is my gacha history.)
+5. Run the .ipynb and you should be able to see the results. Jupyter Notebook is recommended.
